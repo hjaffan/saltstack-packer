@@ -8,3 +8,4 @@
 /opt/springboot/helloworld-spring-2.0.jar:
   file.managed:
     - source: salt://spring/files/helloworld-spring-2.0.jar
+    
